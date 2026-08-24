@@ -1,4 +1,4 @@
-<img width="952" height="617" alt="Снимок" src="https://github.com/user-attachments/assets/bc9ac8a2-f7ff-47f5-b431-bffcb5e1e3fb" /># Fundamentals of C# Programming: Eco-Educational Game
+# Fundamentals of C# Programming: Eco-Educational Game
 
 A standalone educational game with an environmental theme built entirely from scratch without pre-built game engines. This project demonstrates clean application architecture, object-oriented programming (OOP) principles, and custom low-level game mechanics using C# and Windows Forms.
 
