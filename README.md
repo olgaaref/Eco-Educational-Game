@@ -1,5 +1,3 @@
-# Eco-Educational-Game
-Eco-educational game built from scratch using C# and Windows Forms
 # Fundamentals of C# Programming: Eco-Educational Game
 
 A standalone educational game with an environmental theme built entirely from scratch without pre-built game engines. This project demonstrates clean application architecture, object-oriented programming (OOP) principles, and custom low-level game mechanics using C# and Windows Forms.
