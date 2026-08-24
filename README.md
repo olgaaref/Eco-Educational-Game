@@ -13,10 +13,6 @@ A standalone educational game with an environmental theme built entirely from sc
 * **State Management & Transitions:** Implemented a robust application state manager enabling smooth transitions between screens and active game levels.
 * **OOP & Design Patterns:** Utilized core object-oriented principles (Inheritance, Polymorphism, Encapsulation) alongside separation of concerns (separating UI logic from core service layers like `InnerService` and `RecordRegistrationService`).
 
-## 🎮 Gameplay Modes & Algorithmic Logic
-* **Mode 1 & Mode 2 & Mode 3:** Each core gameplay module features distinct, escalating algorithmic complexity, handling real-time object tracking and rendering.
-* **International UI/UX (Level 2):** Features an intuitive waste-sorting mechanic utilizing international color-coding standards for recycling bins, ensuring global accessibility regardless of language barriers.
-
 ## 🌐 Language & Deployment Notes
 * **Localization:** The source code and Windows Forms properties contain Russian text elements optimized for the initial regional project exhibition. However, the underlying software architecture follows strict international engineering standards.
 * **Asset Optimization:** Heavy graphical assets and UI resource files (.resx) have been intentionally omitted from this repository to optimize deployment size. This repository is intended strictly for source code, algorithms, and architecture review.
